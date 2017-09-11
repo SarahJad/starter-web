@@ -8,6 +8,8 @@ This is a simplr project
 
 ## How To Contribute
 
+Please fork this repository .
+
 ### Copyright
 
 2014 Git.Training.
