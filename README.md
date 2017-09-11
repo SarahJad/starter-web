@@ -4,8 +4,6 @@ This is a simplr project
 
 ## Purpose
 
-
-##Deployment 
-
+## Deployment 
 
 ## How To Contribute
